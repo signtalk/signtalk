@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon Chen. I am a highschool student.
 - 👀 I’m interested in Coding with Python and Java.
-- 🌱 I’m currently learning data analytics and data miniing.
+- 🌱 I’m currently learning data analytics and data mining.
 - 💞️ I’m looking to collaborate on people who can learn with each other.
 - 📫 How to reach me form the sintalk@163.com.
 
